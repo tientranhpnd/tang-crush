@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bé My có biết là :',
-    introDesc: `Trái đất vốn lạ thường<br>
+    introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
