@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Bé Thanh hâm, em có biết là :',
-    introDesc: `Thuốc lá thì gây ung thư Còn em thì gây tương tư dài hạn`,
+    introDesc: `Cuộc sống thì giống cuộc đời Còn em thì giống bạn đời của anh`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
